@@ -1,4 +1,6 @@
-
+.affiche {
+  max-width: 300px;
+}
 .liste-acteurs{
   display: flex;
   flex-wrap: wrap;
@@ -8,4 +10,3 @@
 .liste-acteurs .acteur{
   width: calc(20% - 30px);
 }
-
